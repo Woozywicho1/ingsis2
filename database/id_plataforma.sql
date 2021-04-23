@@ -1,0 +1,10 @@
+plataforma(id_plataforma, plataforma) VALUES (1,"Steam"),
+plataforma(id_plataforma, plataforma) VALUES (2,"Playstation"),
+plataforma(id_plataforma, plataforma) VALUES (3,"Uplay"),
+plataforma(id_plataforma, plataforma) VALUES (4,"Google Stadia"),
+plataforma(id_plataforma, plataforma) VALUES (5,"PC"),
+plataforma(id_plataforma, plataforma) VALUES (6,"Apple Arcade"),
+plataforma(id_plataforma, plataforma) VALUES (7,"Origin"),
+plataforma(id_plataforma, plataforma) VALUES (8,"Epic Games Store"),
+plataforma(id_plataforma, plataforma) VALUES (9,"Nintendo Studios"),
+plataforma(id_plataforma, plataforma) VALUES (10,"Xbox");
